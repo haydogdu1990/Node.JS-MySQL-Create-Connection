@@ -12,7 +12,7 @@ MySQL Database
 
 ## Getting Started
 
-1.Creating/Edit your .env file
+Creating/Edit your .env file
 
 -------
 ```js
